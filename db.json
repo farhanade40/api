@@ -12,8 +12,6 @@
         "time" : "08.00",
         "media_1": "img2.jpg",
         "media_2": "aaa"
-  
-
       },
       {
         "id": "2",
@@ -25,7 +23,7 @@
         "date" : "9 NOVEMBER 2022",
         "time" : "08.00",
         "media_1": "img3.jpg",
-        "media_2": "aa",
+        "media_2": "aa"
       }
     ]
   }
